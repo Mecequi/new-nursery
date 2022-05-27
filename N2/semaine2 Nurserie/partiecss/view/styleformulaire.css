@@ -1,0 +1,58 @@
+.center {
+    text-align: center;
+    padding:10px ;
+}
+.artcolor {
+    background-color: orange;
+    border: 5px dotted ; rgb(186, 96, 17);
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 50%;   
+    height: 50%;
+}
+
+.ombre{
+    font-size: 30px  ; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+   font-variant-caps: small-caps;
+}
+p {
+text-transform: capitalize;
+font-family: 'Mulish', sans-serif;
+
+}
+
+
+.maBox1 {
+    background-color: rgb(7, 130, 27);
+    border: 3px solid rgb(110, 173, 21);
+    width: 30px;
+    height: 30px;
+ }
+.maBox2 {
+    background-color: red ;
+    border: 3px solid rgb(238, 167, 167);
+    width: 30px;
+    height: 30px;
+ }
+.maBox3 {
+    background-color: rgb(39, 52, 168);
+    border: 3px solid rgb(146, 164, 241);
+    width: 30px;
+    height: 30px;
+
+}
+.position {
+    position :fixed; 
+    bottom: 40px;
+    right: 40px;
+
+}
+
+div {
+    color: aliceblue;
+}
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}

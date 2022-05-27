@@ -1,0 +1,36 @@
+h1{
+    color:rgb(43, 142, 122);
+    text-align: center;
+    border: 2px solid cornsilk ;
+} 
+#couleur{
+    background: goldenrod; color: white;
+}
+body{
+background-image: url("/assets/th\ \(1\).jpeg"); 
+background-size:cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+
+.title{
+    color: blueviolet;
+
+}
+.color{ background: yellow ;}
+
+
+.center{
+    text-align: center;
+    
+}
+div { 
+
+    padding-left:  500px; padding-right: 500px;
+}
+   
+   
+
+
+
